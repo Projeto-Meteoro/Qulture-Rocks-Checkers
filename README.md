@@ -14,3 +14,8 @@ Challenge Checkers to selection process in Qulture Rocks
 
 # Things that are missing
 1. Unit test 
+
+# Pre requisites 
+You need to have installed pip install and python3 to run the game
+on your computer, then make a pip install pygame if you haven't already have it
+and finally run the main.py through pypthon3 main.py
