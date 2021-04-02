@@ -3,6 +3,7 @@ Challenge Checkers to selection process in Qulture Rocks
 
 # References
 [1] https://www.youtube.com/watch?v=vnd3RfeG3NM
+
 [2] https://www.pygame.org/docs/
 
 # Things that are done
